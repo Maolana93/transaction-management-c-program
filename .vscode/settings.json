@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/clang",
+    "C_Cpp.intelliSenseEngine": "Default",
+    "C_Cpp.enhancedColorization": "Enabled",
+    "C_Cpp.default.includePath": [
+        "/usr/local/Cellar/cjson/1.7.18/include",
+        "/usr/local/include"
+    ]
+}
